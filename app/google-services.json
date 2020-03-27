@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423627558679",
+    "firebase_url": "https://telegramchat-5812f.firebaseio.com",
+    "project_id": "telegramchat-5812f",
+    "storage_bucket": "telegramchat-5812f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423627558679:android:2c2e63ed0ae53190d77152",
+        "android_client_info": {
+          "package_name": "ru.denfad.telegramchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423627558679-bn6lhigdgquflvs3bi9u2elhv5n0k466.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGNo8m6uDRuolee4OqL2lwJASeSM5URso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423627558679-bn6lhigdgquflvs3bi9u2elhv5n0k466.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
